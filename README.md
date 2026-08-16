@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0263-ugly-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
