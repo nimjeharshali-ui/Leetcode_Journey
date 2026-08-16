@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0263-ugly-number/) | Easy |
+| [0507-perfect-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0507-perfect-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
