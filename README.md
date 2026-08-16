@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
