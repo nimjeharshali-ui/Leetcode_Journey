@@ -12,6 +12,7 @@
 | [0367-valid-perfect-square](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
