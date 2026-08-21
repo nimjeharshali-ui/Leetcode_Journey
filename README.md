@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0367-valid-perfect-square/) | Easy |
@@ -40,6 +41,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -57,5 +59,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
