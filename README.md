@@ -52,6 +52,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0367-valid-perfect-square/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -63,4 +64,8 @@
 | [0191-number-of-1-bits](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
