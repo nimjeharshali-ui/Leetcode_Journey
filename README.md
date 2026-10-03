@@ -30,6 +30,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -68,4 +69,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0035-search-insert-position/) | Easy |
+| [0088-merge-sorted-array](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
