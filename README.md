@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,8 +71,10 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/nimjeharshali-ui/Leetcode_Journey/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
